@@ -9,6 +9,17 @@
       <li>Sonríe con tu cara, con tu mente y hasta con el hígado.</li>
       <li>Trabaja la mente, es lo único que deberías de controlar, porque si no puedes controlar tus pensamientos estarás en problemas por siempre.</li>
     </ul>
+    <div class="input-group mb-3">
+      <input
+        type="text"
+        v-model="fondo"
+        class="form-control"
+        placeholder="Ingresa el color de fondo"
+        aria-label="Ingresa el color de fondo"
+        aria-describedby="basic-addon2"
+      >
+      <button class="btn-danger btn-outline-dark" @click="fondo">Cambiar fondo</button>
+    </div>
   </b-container>
 </template>
 
