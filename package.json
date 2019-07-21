@@ -1,5 +1,5 @@
 {
-  "name": "codesandbox",
+  "name": "enlaces-de-estilo-y-clases",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -43,5 +43,7 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "keywords": [],
+  "description": ""
 }
