@@ -9,6 +9,16 @@
       <li>Sonríe con tu cara, con tu mente y hasta con el hígado.</li>
       <li>Trabaja la mente, es lo único que deberías de controlar, porque si no puedes controlar tus pensamientos estarás en problemas por siempre.</li>
     </ul>
+    <p><strong>Nota:</strong> Puedes cambiar el color de fondo de esta tarjeta usando los colores de Bootstrap:</br>
+      a) bg-primary</br>
+      b) bg-secondary</br>
+      c) bg-success</br>
+      d) bg-danger</br>
+      e) bg-warning</br>
+      f) bg-info</br>
+      g) bg-light</br>
+      h) bg-dark</br>
+      i) bg-white</br></p>
     <div class="input-group mb-3">
       <input
         type="text"
